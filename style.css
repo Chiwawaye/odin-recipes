@@ -1,3 +1,7 @@
+*{
+    background-color: black;
+}
+
 .title {
     font-size: 24px;
     background-color: blue;
@@ -5,4 +9,8 @@
 }
 #Giga {
    color: black;
+}
+.list {
+    text-align: center;
+    color: white;
 }
