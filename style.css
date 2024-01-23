@@ -1,16 +1,23 @@
 *{
     background-color: black;
 }
-
+.cimg {
+    align-content: center;
+    align-items: center;
+}
 .title {
-    font-size: 24px;
-    background-color: blue;
+    font-size: 48px;
+    text-align: center;
+    color: grey;
+    background-color: purple;
     font-family: 'Times New Roman', Times, serif;
 }
 #Giga {
-   color: black;
+   color: grey;
+   background-color: purple;
+   align-items: end;
 }
 .list {
     text-align: center;
-    color: white;
+    color: gray;
 }
