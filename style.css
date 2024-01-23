@@ -8,16 +8,16 @@
 .title {
     font-size: 48px;
     text-align: center;
-    color: grey;
+    color: blue;
     background-color: purple;
     font-family: 'Times New Roman', Times, serif;
 }
 #Giga {
-   color: grey;
+   color:blue;
    background-color: purple;
    align-items: end;
 }
 .list {
     text-align: center;
-    color: gray;
+    color: blue;
 }
