@@ -1,0 +1,29 @@
+* {
+    background-color: black;
+}
+.title {
+    font-size: 48px;
+    color: blue;
+    background-color: grey;
+    text-align: center;
+}
+.list {
+    align-content: center;
+    margin: 5px 10px;
+    padding: 10px 5px;
+}
+.cimg {
+    display: block;
+    margin: 10px 10px;
+    padding: 20px 20px;
+    float: left;
+}
+#Giga {
+
+}
+.button {
+ display: block;
+ color: blue;
+ background-color: black;
+ align-self: center;
+}
